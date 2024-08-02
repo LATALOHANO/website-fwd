@@ -1,0 +1,55 @@
+h1 {
+    color:blueviolet;
+    font-size: x-large;
+}
+p{ 
+    color: aqua;font-size-adjust: initial;
+}
+.different {
+    color: rgb(149, 0, 255);
+
+}
+
+top-article{
+    background-color: brown;
+}
+
+ul{
+    padding-block-colour :red;
+    margin: ;
+}
+/*navigation*/
+
+nav {
+
+   padding: 3cm;
+   background-color: blueviolet;
+
+}
+nav{
+
+margin-left: 3cm;
+
+}
+
+    
+
+    nav ul li a {
+
+        display: block;
+        color: red ;
+    }
+    
+    /* flex box stuff */
+
+    .flex-container {
+        display: flex;
+        background-color: DodgerBlue;
+      }
+      
+      .flex-container > div {
+        background-color: #f1f1f1;
+        margin: 10px;
+        padding: 20px;
+        font-size: 30px;
+      }
